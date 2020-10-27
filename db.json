@@ -35,5 +35,6 @@
 		"JackpotID":1,
 		"JackpotType":4
 	}
-   ]   
+   ],
+   "NumJackpots" : 2
 }
