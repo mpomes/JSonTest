@@ -34,15 +34,15 @@
 		[
 			{
 				"JackpotID":1,
-				"JackpotType":6
-			},
-			{
-				"JackpotID":2,
 				"JackpotType":5
 			},
 			{
-				"JackpotID":3,
+				"JackpotID":2,
 				"JackpotType":4
+			},
+			{
+				"JackpotID":3,
+				"JackpotType":3
 			}
 		]
     }   
