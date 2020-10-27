@@ -1,43 +1,49 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],  
-  "GetJackpotDisplayData": 
-     {
-       "NumJackpots" : 2,
-       "Jackpots": [
+	"posts": 
+	[
 		{
-			"JackpotID":1,
-			"JackpotType":4
+			"id": 1,
+			"title": "Post 1"
 		},
 		{
-			"JackpotID":2,
-			"JackpotType":3
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
 		}
-         ]
-      }
-   
+	],
+	"comments": 
+	[
+		{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],  
+	"GetJackpotDisplayData": 
+	{
+		"NumJackpots" : 3,
+		"Jackpots": 
+		[
+			{
+				"JackpotID":1,
+				"JackpotType":6
+			},
+			{
+				"JackpotID":2,
+				"JackpotType":5
+			},
+			{
+				"JackpotID":3,
+				"JackpotType":4
+			}
+		]
+    }   
 }
