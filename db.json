@@ -25,9 +25,8 @@
       "postId": 1
     }
   ],  
-  "gets": [
+  "GetJackpotDisplayData": 
      {
-       "id": 1,
        "NumJackpots" : 2,
        "Jackpots": [
 		{
@@ -40,5 +39,5 @@
 		}
          ]
       }
-   ]
+   
 }
