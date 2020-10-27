@@ -29,6 +29,7 @@
 	],  
 	"GetJackpotDisplayData": 
 	{
+		"Currency" : 1,
 		"NumJackpots" : 3,
 		"Jackpots": 
 		[
