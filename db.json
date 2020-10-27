@@ -30,12 +30,12 @@
        "NumJackpots" : 2,
        "Jackpots": [
 		{
-			"JackpotID":0,
-			"JackpotType":5
-		},
-		{
 			"JackpotID":1,
 			"JackpotType":4
+		},
+		{
+			"JackpotID":2,
+			"JackpotType":3
 		}
          ]
       }
