@@ -27,27 +27,52 @@
 			"postId": 1
 		}
 	],  
-	"GetJackpotDisplayData": 
+	"GetJackpotsDisplayData": 
 	{
-		"Currency" : 0,
-		"NumJackpots" : 3,
+		"Currency": 0,
+		"NumJackpots": 3,
 		"Jackpots": 
 		[
 			{
-				"JackpotID":1,
-				"JackpotType":5,
-				"JackpotValue":1999.99
+				"JackpotID": 1,
+				"JackpotType": 5,
+				"JackpotValue": 1999.99
 			},
 			{
-				"JackpotID":2,
-				"JackpotType":4,
-				"JackpotValue":500.00
+				"JackpotID": 2,
+				"JackpotType": 4,
+				"JackpotValue": 500.00
 			},
 			{
-				"JackpotID":3,
-				"JackpotType":3,
-				"JackpotValue":100.00
+				"JackpotID": 3,
+				"JackpotType": 3,
+				"JackpotValue": 100.00
 			}
 		]
-    }   
+    },  
+	"GetJackpotHitData": 
+	{
+		"JackpotHitID" : 1111,
+		"JackpotHitDateTime" : "2020-10-28T17:00:00.000Z",
+		"JackpotDataInfo": 		
+		{
+			"JackpotID": 1,
+			"JackpotType": 5,
+			"JackpotValue": 1999.99
+		}		
+    },  
+	"GetJackpotHitData": 
+	{
+		"JackpotHitDataList": 
+		[
+			"JackpotHitID" : 1,
+			"JackpotHitDateTime" : "2020-10-28T17:00:00.000Z",
+			"JackpotDataInfo": 		
+			{
+				"JackpotID": 1,
+				"JackpotType": 5,
+				"JackpotValue": 1999.99
+			}
+		]
+    }	
 }
