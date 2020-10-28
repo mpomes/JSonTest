@@ -29,14 +29,14 @@
 	],  
 	"GetJackpotDisplayData": 
 	{
-		"Currency" : 1,
+		"Currency" : 0,
 		"NumJackpots" : 3,
 		"Jackpots": 
 		[
 			{
 				"JackpotID":1,
 				"JackpotType":5,
-				"JackpotValue":1005.23
+				"JackpotValue":1505.23
 			},
 			{
 				"JackpotID":2,
@@ -46,7 +46,7 @@
 			{
 				"JackpotID":3,
 				"JackpotType":3,
-				"JackpotValue":100.00
+				"JackpotValue":108.00
 			}
 		]
     }   
