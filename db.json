@@ -61,7 +61,7 @@
 			"JackpotValue": 1999.99
 		}		
     },  
-	"GetJackpotHitData": 
+	"GetJackpotsHistoryData": 
 	{
 		"JackpotHitDataList": 
 		[
