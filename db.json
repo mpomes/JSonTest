@@ -65,13 +65,15 @@
 	{
 		"JackpotHitDataList": 
 		[
-			"JackpotHitID" : 1,
-			"JackpotHitDateTime" : "2020-10-28T17:00:00.000Z",
-			"JackpotDataInfo": 		
 			{
-				"JackpotID": 1,
-				"JackpotType": 5,
-				"JackpotValue": 1999.99
+				"JackpotHitID" : 1,
+				"JackpotHitDateTime" : "2020-10-28T17:00:00.000Z",
+				"JackpotDataInfo": 		
+				{
+					"JackpotID": 1,
+					"JackpotType": 5,
+					"JackpotValue": 1999.99
+				}
 			}
 		]
     }	
