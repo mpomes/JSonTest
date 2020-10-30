@@ -168,7 +168,51 @@
 					"JackpotType": 5,
 					"JackpotValue": 1001.01
 				}
-			}
+			},
+			{
+				"JackpotHitID" : 7777,
+				"JackpotHitType" : 7,
+				"JackpotHitDateTime" : "2020-10-30T15:28:00.000Z",
+				"JackpotDataInfo": 		
+				{
+					"JackpotID": 6,
+					"JackpotType": 0,
+					"JackpotValue": 35.34
+				}
+			},
+			{
+				"JackpotHitID" : 8888,
+				"JackpotHitType" : 8,
+				"JackpotHitDateTime" : "2020-10-30T11:34:00.000Z",
+				"JackpotDataInfo": 		
+				{
+					"JackpotID": 1,
+					"JackpotType": 5,
+					"JackpotValue": 1001.01
+				}
+			},
+			{
+				"JackpotHitID" : 7777,
+				"JackpotHitType" : 7,
+				"JackpotHitDateTime" : "2020-10-30T15:28:00.000Z",
+				"JackpotDataInfo": 		
+				{
+					"JackpotID": 6,
+					"JackpotType": 0,
+					"JackpotValue": 35.34
+				}
+			},
+			{
+				"JackpotHitID" : 8888,
+				"JackpotHitType" : 8,
+				"JackpotHitDateTime" : "2020-10-30T11:34:00.000Z",
+				"JackpotDataInfo": 		
+				{
+					"JackpotID": 1,
+					"JackpotType": 5,
+					"JackpotValue": 1001.01
+				}
+			}			
 		]
     }	
 }
