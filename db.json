@@ -36,27 +36,27 @@
 			{
 				"JackpotID": 1,
 				"JackpotType": 5,
-				"JackpotValue": 1999.09
+				"JackpotValue": 1000.00
 			},
 			{
 				"JackpotID": 2,
 				"JackpotType": 4,
-				"JackpotValue": 750.60
+				"JackpotValue": 500.00
 			},
 			{
 				"JackpotID": 3,
 				"JackpotType": 3,
-				"JackpotValue": 350.00
+				"JackpotValue": 250.00
 			},
 			{
 				"JackpotID": 4,
 				"JackpotType": 2,
-				"JackpotValue": 109.00
+				"JackpotValue": 100.00
 			},
 			{
 				"JackpotID": 5,
 				"JackpotType": 1,
-				"JackpotValue": 50.05
+				"JackpotValue": 50.00
 			},
 			{
 				"JackpotID": 6,
