@@ -124,6 +124,28 @@
 					"JackpotType": 1,
 					"JackpotValue": 58.32
 				}
+			},
+			{
+				"JackpotHitID" : 5555,
+				"JackpotHitType" : 5,
+				"JackpotHitDateTime" : "2020-10-30T11:29:00.000Z",
+				"JackpotDataInfo": 		
+				{
+					"JackpotID": 4,
+					"JackpotType": 2,
+					"JackpotValue": 105.12
+				}
+			},
+			{
+				"JackpotHitID" : 6666,
+				"JackpotHitType" : 6,
+				"JackpotHitDateTime" : "2020-10-30T11:34:00.000Z",
+				"JackpotDataInfo": 		
+				{
+					"JackpotID": 5,
+					"JackpotType": 3,
+					"JackpotValue": 255.92
+				}
 			}
 		]
     }	
