@@ -67,14 +67,14 @@
     },  
 	"GetJackpotHitData": 
 	{
-		"JackpotHitID" : 8888,
-		"JackpotHitType" : 8,
-		"JackpotHitDateTime" : "2020-10-30T11:34:00.000Z",
+		"JackpotHitID" : 2222,
+		"JackpotHitType" : 2,
+		"JackpotHitDateTime" : "2020-10-29T15:20:00.000Z",
 		"JackpotDataInfo": 		
 		{
-			"JackpotID": 1,
-			"JackpotType": 5,
-			"JackpotValue": 1001.01
+			"JackpotID": 2,
+			"JackpotType": 4,
+			"JackpotValue": 632.76
 		}		
     },  
 	"GetJackpotsHistoryData": 
