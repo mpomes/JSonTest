@@ -30,7 +30,7 @@
 	"GetJackpotsDisplayData": 
 	{
 		"Currency": 1,
-		"NumJackpots": 6,
+		"NumJackpots": 3,
 		"Jackpots": 
 		[
 			{
@@ -47,21 +47,6 @@
 				"JackpotID": 3,
 				"JackpotType": 3,
 				"JackpotValue": 250.00
-			},
-			{
-				"JackpotID": 4,
-				"JackpotType": 2,
-				"JackpotValue": 100.00
-			},
-			{
-				"JackpotID": 5,
-				"JackpotType": 1,
-				"JackpotValue": 50.00
-			},
-			{
-				"JackpotID": 6,
-				"JackpotType": 0,
-				"JackpotValue": 10.00
 			}
 		]
     },  
